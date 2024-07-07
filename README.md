@@ -32,7 +32,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1: _(Abhay Singh Rawat)_
  - Email: abhaysrphy@gmail.com
- - Discord ID: SpinningMagnetar
+ - Discord ID: spinningmagnetar
+ - Discord server name: Abhay_India
  - GitHub ID: Magnesar
  - Nationality: Indian
  - Current affiliation: HNB Garhwal University 
